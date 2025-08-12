@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Maf-Dev-Bank accounts related local APIs "
   contactDetails:
     name: "Marius Falamas - Developer"
-    email: "maf@mariusflm.dev"
+    email: "{cipher}b623bad76eb2b8e64a747fef6b3b170908c064dca252edc16f13fbaab6b63c0b22e7556e9a9862a4eb496cb9d7f51199"
   onCallSupport:
     - (0743) 123-456
     - (0743) 987-654
