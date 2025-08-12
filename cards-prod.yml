@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Maf-Dev-Bank cards related local APIs "
+  contactDetails:
+    name: "Eva Falamas - PO"
+    email: "esf@mariusflm.dev"
+  onCallSupport:
+    - (0741) 123-456
+    - (0741) 987-654

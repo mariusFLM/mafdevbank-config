@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Maf-Dev-Bank accounts related local APIs "
+  contactDetails:
+    name: "Marius Falamas - Developer"
+    email: "maf@mariusflm.dev"
+  onCallSupport:
+    - (0743) 123-456
+    - (0743) 987-654
+
+

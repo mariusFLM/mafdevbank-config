@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Maf-Dev-Bank cards related local APIs "
+  contactDetails:
+    name: "Ana Manolache - QA Lead"
+    email: "ama@mariusflm.dev"
+  onCallSupport:
+    - (0742) 123-456
+    - (0742) 987-654
